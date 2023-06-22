@@ -22,7 +22,7 @@ figures or archetypes. The current limitations in defining and updating engineer
 structured and automated approach for processing educational and occupational data sources that evolve over time. This study 
 aims to enhance the definition of professional figures in engineering by automating archetype definitions through text mining
 and adopting a more objective and structured methodology based on topic modeling. This will expand the use of archetypes 
-as a common language, bridging the gap between educational and occupational frameworks by providing a unified and up-todate engineering professional figure tailored to a specific period, specialization type, and level. We validate the automatically 
+as a common language, bridging the gap between educational and occupational frameworks by providing a unified and up-to-date engineering professional figure tailored to a specific period, specialization type, and level. We validate the automatically 
 defined industrial engineer archetype against our previously manually defined profile. The prototype software for archetype 
 generation that we have developed is publicly available online at
 
