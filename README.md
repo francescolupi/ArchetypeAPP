@@ -1,8 +1,6 @@
 # Archetype_NoteBook
 
-The `APP_Archetype.ipynb` file is a demo of the paper entitled "Toward Automatic Definition of Engineer Archetypes: A Text Mining Approach". Please cite the work as "xx".
-
-The Notebook can be directly run using Google Colab at this link: [Open in Colab](https://colab.research.google.com/drive/1M9xje31CaP8-6-Ayzv1LjXY9wVt5xOuU?usp=drive_link). The `.ipynb` file is also shared in this repository.
+This Notebook is a demo generated for the paper "Lupi F., Mabkhot M.M., Boffa E., Ferreira P., Antonelli D., Maffei A., Lohse N., and Lanzetta M.,. Toward Automatic Definition of Engineer Archetypes: A Text Mining Approach, 2023". The Notebook can be directly run using Google Colab at this link: [Open in Colab](https://colab.research.google.com/drive/1M9xje31CaP8-6-Ayzv1LjXY9wVt5xOuU?usp=drive_link). The `.ipynb` file is also shared in this repository. 
 
 ## Main Steps
 
@@ -13,6 +11,20 @@ The Notebook can be directly run using Google Colab at this link: [Open in Colab
 3. **Step 3: Display Archetype**: Display the archetype in the form of topics extracted as clusters.
 
 4. **Step 4: Download Archetype**: Download the archetype in the form of 100 technical keywords (content) and Bloom Verbs (verbs) for each identified topic. The content can be retrieved, for example, from ChatGPT by querying "provide me a content of max 20 words for the topic which includes these technical keywords [...]" and listing the keywords.
+
+## Paper Reference
+
+Cite as "Lupi F., Mabkhot M.M., Boffa E., Ferreira P., Antonelli D., Maffei A., Lohse N., and Lanzetta M.,. Toward Automatic Definition of Engineer Archetypes: A Text Mining Approach, 2023" 
+
+Abstract: With the rapid and continuous advancements in technology, as well as the constantly evolving competencies 
+required in the field of engineering, there is a critical need for the harmonization and unification of engineering professional 
+figures or archetypes. The current limitations in defining and updating engineers' archetypes are attributed to the absence of a 
+structured and automated approach for processing educational and occupational data sources that evolve over time. This study 
+aims to enhance the definition of professional figures in engineering by automating archetype definitions through text mining
+and adopting a more objective and structured methodology based on topic modeling. This will expand the use of archetypes 
+as a common language, bridging the gap between educational and occupational frameworks by providing a unified and up-todate engineering professional figure tailored to a specific period, specialization type, and level. We validate the automatically 
+defined industrial engineer archetype against our previously manually defined profile. The prototype software for archetype 
+generation that we have developed is publicly available online at
 
 ## License
 
