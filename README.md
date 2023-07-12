@@ -1,6 +1,6 @@
 # Archetype_NoteBook
 
-This Notebook is a demo generated for the paper "Lupi F., Mabkhot M.M., Boffa E., Ferreira P., Antonelli D., Maffei A., Lohse N., and Lanzetta M.,. Toward Automatic Definition of Engineer Archetypes: A Text Mining Approach, 2023". The Notebook can be directly run using Google Colab at this link: [Open in Colab](https://colab.research.google.com/drive/1M9xje31CaP8-6-Ayzv1LjXY9wVt5xOuU?usp=drive_link). The `.ipynb` file is also shared in this repository. 
+This Notebook is a demo generated for the paper "Lupi F., Mabkhot M.M., Boffa E., Ferreira P., Antonelli D., Maffei A., Lohse N., and Lanzetta M.,. Automatic Definition of Engineer Archetypes: A Text Mining Approach, 2023". The Notebook can be directly run using Google Colab at this link: [Open in Colab](https://colab.research.google.com/drive/1M9xje31CaP8-6-Ayzv1LjXY9wVt5xOuU?usp=drive_link). The `.ipynb` file is also shared in this repository. 
 
 ## Main steps
 
@@ -14,7 +14,7 @@ This Notebook is a demo generated for the paper "Lupi F., Mabkhot M.M., Boffa E.
 
 ## Paper Reference
 
-Cite as "Lupi F., Mabkhot M.M., Boffa E., Ferreira P., Antonelli D., Maffei A., Lohse N., and Lanzetta M.,. Toward Automatic Definition of Engineer Archetypes: A Text Mining Approach, 2023" 
+Cite as "Lupi F., Mabkhot M.M., Boffa E., Ferreira P., Antonelli D., Maffei A., Lohse N., and Lanzetta M.,. Automatic Definition of Engineer Archetypes: A Text Mining Approach, 2023" 
 
 Abstract: With the rapid and continuous advancements in technology, as well as the constantly evolving competencies 
 required in the field of engineering, there is a critical need for the harmonization and unification of engineering professional 
@@ -24,7 +24,12 @@ aims to enhance the definition of professional figures in engineering by automat
 and adopting a more objective and structured methodology based on topic modeling. This will expand the use of archetypes 
 as a common language, bridging the gap between educational and occupational frameworks by providing a unified and up-to-date engineering professional figure tailored to a specific period, specialization type, and level. We validate the automatically 
 defined industrial engineer archetype against our previously manually defined profile. The prototype software for archetype 
-generation that we have developed is publicly available online at
+generation that we have developed is publicly available online at https://github.com/francescolupi/ArchetypeAPP.
+
+## Additional Reference
+
+This work is the result of our previous paper ["Toward a sustainable educational engineer archetype through Industry 4.0"] (https://www.sciencedirect.com/science/article/pii/S0166361521001500). 
+
 
 ## License
 
