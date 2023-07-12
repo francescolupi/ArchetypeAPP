@@ -28,7 +28,7 @@ generation that we have developed is publicly available online at https://github
 
 ## Additional Reference
 
-This work is the result of our previous paper ["Toward a sustainable educational engineer archetype through Industry 4.0"] (https://www.sciencedirect.com/science/article/pii/S0166361521001500). 
+This work is the result of our previous paper ["Lupi, F., Mabkhot, M. M., Finžgar, M., Minetola, P., Stadnicka, D., Maffei, A., ... & Lanzetta, M. (2022). Toward a sustainable educational engineer archetype through Industry 4.0. Computers in Industry, 134, 103543."](https://www.sciencedirect.com/science/article/pii/S0166361521001500). 
 
 
 ## License
